@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\TRONGVM\\source\\repos\\StudyDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A76D13A-84A8-4444-98D4-6F88ED8FEBDB}|StudyDapper\\StudyDapper.csproj|c:\\users\\trongvm\\source\\repos\\studydapper\\studydapper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A76D13A-84A8-4444-98D4-6F88ED8FEBDB}|StudyDapper\\StudyDapper.csproj|solutionrelative:studydapper\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\TRONGVM\\source\\repos\\StudyDapper\\StudyDapper\\Class1.cs",
+              "RelativeDocumentMoniker": "StudyDapper\\Class1.cs",
+              "ToolTip": "C:\\Users\\TRONGVM\\source\\repos\\StudyDapper\\StudyDapper\\Class1.cs",
+              "RelativeToolTip": "StudyDapper\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:33:33.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
